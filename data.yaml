@@ -1,5 +1,5 @@
-train: data\train 
-val: data\val
+train: train 
+val: val
 
 nc: 1
 
